@@ -60,21 +60,15 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>![image](https://github.com/vigneshvickyu/Norm-of-a-matrix/assets/151948835/8e62b497-5965-43d2-becf-0b8681164b1d)
+```![image](https://github.com/vigneshvickyu/Norm-of-a-matrix/assets/151948835/8e62b497-5965-43d2-becf-0b8681164b1d)
 
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>![image](https://github.com/vigneshvickyu/Norm-of-a-matrix/assets/151948835/e9ab2885-66b3-446d-bd39-439423ae4fd9)
+```![image](https://github.com/vigneshvickyu/Norm-of-a-matrix/assets/151948835/e9ab2885-66b3-446d-bd39-439423ae4fd9)
 
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>![image](https://github.com/vigneshvickyu/Norm-of-a-matrix/assets/151948835/75695bf1-8f3b-4a26-ad48-d747e735af95)
+``![image](https://github.com/vigneshvickyu/Norm-of-a-matrix/assets/151948835/75695bf1-8f3b-4a26-ad48-d747e735af95)
 
 
 ## Result
